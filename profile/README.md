@@ -1,8 +1,11 @@
 ![Siarhei Dudko Logo](https://dudko.dev/assets/images/print.png)
-  
- Connect with me via:  
 
-**Website**: [dudko.dev]([mailto:sergey@dudko.dev](https://dudko.dev))  
+# Welcome to the DUDKO.DEV
+
+**Website**: [dudko.dev](https://dudko.dev) 
+  
+## Connect with me via 
+ 
 **Email**: [sergey@dudko.dev](mailto:sergey@dudko.dev)  
   
 **LinkedIn** (personal):[sergdudko](https://www.linkedin.com/in/sergdudko)  
@@ -13,4 +16,4 @@
 **GitHub** (company):[dudko-dev](https://github.com/dudko-dev)  
 **NPM** (company):[dudko-dev](https://www.npmjs.com/org/dudko.dev)  
   
- Let's collaborate to elevate your projects to new heights!
+ _Let's collaborate to elevate your projects to new heights!_
